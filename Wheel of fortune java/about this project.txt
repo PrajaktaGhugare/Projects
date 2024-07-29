@@ -1,9 +1,11 @@
+**Hello Prajakta here,and here is description for this easy game in Java**
+
+
+
+
 # WHEEL
 
-**This beginner-level java project recreates the classic game of Wheel of Fortune. It consisits of 3
- players, underscores/dashes to represent letters in the puzzle, and available letters.**
-
-
+**It consisits of 3 players, underscores/dashes to represent letters in the puzzle, and available letters.**
 
 ## INITIAL SCREEN
 
